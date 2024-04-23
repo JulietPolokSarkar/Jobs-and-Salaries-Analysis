@@ -1,1 +1,2 @@
 # Jobs-and-Salaries-Analysis
+We are presented with a dataset extracted from a renowned job portal, detailing the job status of various data-related positions posted during the year 2023. Our task is to extract meaningful insights from this data to elucidate the actual remuneration each job title offers across the globe. This analysis will aid recruiters in understanding job requirements better, particularly in terms of salaries across different levels of work experience, enabling them to procure proficient profiles for any data-related requirement.
